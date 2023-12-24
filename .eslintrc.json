@@ -112,6 +112,8 @@
     "import/newline-after-import": "error",
     "import/no-extraneous-dependencies": "off",
     "import/order": "off",
+    "import/prefer-default-export": "off",
+    "import/no-cycle": "off",
     // === Others === //
     "function-paren-newline": "error",
     "function-call-argument-newline": "error",
